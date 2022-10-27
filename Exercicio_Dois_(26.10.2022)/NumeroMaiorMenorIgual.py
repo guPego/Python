@@ -6,3 +6,5 @@ elif numero < 10:
     print("O número digitado ", numero, " é menor que 10.")
 else:
     print("O número digitado ", numero, " é maior que 10.")
+
+#FIM

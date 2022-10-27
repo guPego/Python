@@ -33,3 +33,5 @@ print("Samsung: ", (valorSamsung * quantSamsung) - (valorSamsung * quantSamsung 
 print("Tablet: ", (valorTablet * quantTablet) - (valorTablet * quantTablet * 0.1))
 print("Ps5: ", (valorPs5 * quantPs5) - (valorPs5 * quantPs5 * 0.1))
 print("Notebook: ", (valorNotebook * quantNotebook) - (valorNotebook * quantNotebook * 0.1))
+
+#FIM

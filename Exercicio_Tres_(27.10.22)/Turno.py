@@ -1,3 +1,4 @@
+
 print("Informe a seguir o turno em que estuda")
 turno = input("M para matutino, V para vespertino e N para noturno: ")
 

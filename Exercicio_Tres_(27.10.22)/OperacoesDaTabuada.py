@@ -1,5 +1,5 @@
 numero = int(input("Digite um número inteiro para a tabuada: "))
-intervaloFim = int(input("Digite até que número será multiplicado: "))
+intervaloFim = int(input("Digite o ultímo número a ser multiplicado: "))
 
 for i in range(intervaloFim):
     numeroMultiplicado = numero * i;

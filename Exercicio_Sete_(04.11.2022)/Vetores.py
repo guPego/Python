@@ -11,11 +11,10 @@ vetorDois = []
 for i in range(10):
     vetorDois.append(input("Digite um número para a posição " +str(i)+ " do segundo vetor: "))
 
-# vetorTres = list(zip(vetorUm, vetorDois))
-# print(vetorTres)
+print("")
 
 vetorTres = []
 for i, j in zip(vetorUm, vetorDois):
     vetorTres.append(i)
     vetorTres.append(j)
-print("\n", "Terceiro vetor: ", vetorTres)
+print("Terceiro vetor: ", vetorTres)
